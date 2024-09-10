@@ -6,7 +6,7 @@ You can modify the % devfund with --devfund-percent
 
 # GPU mining tutorial (Only for nvidia)
 ```bash
-wget https://github.com/astrix-network/astrix-gpu-miner-v0.2.1/releases/download/v0.2.1/astrix-gpu-miner-v0.2.1-linux.zip
+wget https://github.com/astrix-network/astrix-gpu-miner/releases/download/v0.2.1/astrix-gpu-miner-v0.2.1-linux.zip
 
 unzip astrix-gpu-miner-v0.2.1-linux.zip
 
