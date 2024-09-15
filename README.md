@@ -1,7 +1,6 @@
 # astrix gpu miner
 A fast GPU miner for Astrix using AstrixHash algorithm
 
-# HELP
 ```bash
 USAGE:
     astrix-miner [OPTIONS] --mining-address <MINING_ADDRESS>
