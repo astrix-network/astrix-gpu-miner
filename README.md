@@ -1,5 +1,5 @@
 # astrix gpu miner
-A fast GPU miner for Astrix using AstrixHash algorithm
+A fast GPU miner for Astrix using AstrixHash algorithm (nvidia only)
 
 ```bash
 USAGE:
