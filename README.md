@@ -1,5 +1,5 @@
-# astrix-gpu-miner
-A fast GPU miner for Astrix using AstrixHash algorithm with 5% dev fee made by paragone
+# astrix gpu miner
+A fast GPU miner for Astrix using AstrixHash algorithm with 2% dev fee
 
 You can modify the % devfund with --devfund-percent
 
@@ -12,7 +12,7 @@ unzip astrix-gpu-miner-v0.2.1-linux.zip
 
 chmod +x astrix-miner
 
-./astrix-miner --astrixd-address YourNodeIpAddress --port 34150 --mining-address YourWalletAddress --devfund-percent 0
+./astrix-miner --mining-address YourWalletAddress --astrixd-address YourNodeIpAddress --port 34150
 ```
 
 ⚠️  If missing lib
