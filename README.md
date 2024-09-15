@@ -63,9 +63,9 @@ OPTIONS:
 
 # GPU mining tutorial (Only for nvidia)
 ```bash
-wget https://github.com/astrix-network/astrix-gpu-miner/releases/download/v0.2.1/astrix-gpu-miner-v0.2.1-linux.zip
+wget https://github.com/astrix-network/astrix-gpu-miner/releases/download/v0.2.3/astrix-gpu-miner-v0.2.3-linux.zip
 
-unzip astrix-gpu-miner-v0.2.1-linux.zip
+unzip astrix-gpu-miner-v0.2.3-linux.zip
 
 chmod +x astrix-miner
 
